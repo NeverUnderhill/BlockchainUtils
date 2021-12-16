@@ -3,3 +3,5 @@ Run ```./getTransactionCount.sh <BLOCK_NUM>``` to get number of transactions in 
 Run ```./tcrange.sh``` to run the aboce script in a loop.
 
 Edit the script to change loop boundaries and increment.
+
+Requires ```jq```, command line tool for parsing json.
